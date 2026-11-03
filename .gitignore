@@ -1,0 +1,6 @@
+# Local user database (contains password hashes)
+data/users.db
+
+__pycache__/
+*.pyc
+.venv/

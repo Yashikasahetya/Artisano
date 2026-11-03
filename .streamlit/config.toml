@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#B46A72"            # Rosewood      - buttons, active tab, links
+backgroundColor = "#FFF7E6"         # Vanilla Cream - page background
+secondaryBackgroundColor = "#FBE3E8" # soft tint of Blush Petal - inputs, cards, expanders
+textColor = "#2D3A47"               # Midnight Lagoon - all text
+font = "sans serif"
